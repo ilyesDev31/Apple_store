@@ -9,7 +9,7 @@ let SlidesInitialValue = [120,120,120,120,120,120,120];
 let opened = false;
 
 window.addEventListener('DOMContentLoaded', function(){
-this.scroll(0,6000)
+this.scroll(0,0)
     
     opened = false;
     document.body.style.overflowY = "scroll";
